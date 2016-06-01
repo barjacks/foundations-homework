@@ -5,8 +5,8 @@ We are doing **some other stuff here**
 What odoes **two stars do** versus *one star"?????
 Maybe we can [add a link](http:www.google.com)
 # Here is maybe another header
-## Here is more text
-### This is another text or maybe a header
+## Here is a smaller
+### This is an even smaller header
 This is text
 Definitely text
 YES
