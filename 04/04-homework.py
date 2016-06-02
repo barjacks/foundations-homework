@@ -1,6 +1,6 @@
 ########
 #
-# Homework 3
+# Homework 4
 #
 # MAKE SURE YOU ARE RUNNING THIS WITH PYTHON 3!
 # Python 2 will give a "Non-ASCII character" error
