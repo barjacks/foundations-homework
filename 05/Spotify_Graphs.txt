@@ -1,0 +1,3 @@
+Here's a Google Spreadsheets showing two graphs. One with the popularity count for "Biggie" artists and one with the count for "Lil'" artists.
+
+https://docs.google.com/spreadsheets/d/1SDyoZyPFNyzp56SfYJ6_wD2BKbDmOQveha3XY2Nc9ZM/edit?usp=sharing
