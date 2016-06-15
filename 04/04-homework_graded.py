@@ -1,5 +1,5 @@
 ########
-#
+#Graded = 24/25
 # Homework 4
 #
 # MAKE SURE YOU ARE RUNNING THIS WITH PYTHON 3!
