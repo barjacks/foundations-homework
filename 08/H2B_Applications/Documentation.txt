@@ -10,3 +10,6 @@ The H-2B working visa is a nonimmigrant visa which allows foreign nationals to e
 
 - Differences between 08 and 09.
 
+
+
+NBR_WORKERS_CERTIFIED
