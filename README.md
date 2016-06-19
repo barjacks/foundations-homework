@@ -1,24 +1,32 @@
-# foundations-homework
-Here is where I turn in all of my homework.
-We are doing *some stuff here*
-We are doing **some other stuff here**
-What odoes **two stars do** versus *one star"?????
-Maybe we can [add a link](http:www.google.com)
-# Here is maybe another header
-## Here is a smaller
-### This is an even smaller header
-This is text
-Definitely text
-YES
-## typing in fun
-Good kinds of pancakes:
-* Okonimayaki
-* Dorayaki
-* Silver dollars
-* Injera
-HEre's more text
-blablabla
-Ranked Panckaes
-1. one
-2. Two
-3. Three
+# foundations-homework, Mai - July 2016
+
+##01: First steps with Python
+	- Input
+	- if, elif, else
+
+##02: More Python
+	- len
+	- for loop
+
+##03: Python
+	- Lists, dictionaries
+
+
+##04: Python & APIs
+	- Jupyter Notebook
+	- Spotify
+
+##05: APIs
+	- Spotify (including Search engine)
+	- New York Times
+
+##06: APIs
+	- Weather
+
+##07: Pandas
+	- Animals (basic commands)
+	- Rich people (expanded)
+
+##08: Pandas
+	- Swiss accident data
+	- H2-B work visas
