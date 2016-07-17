@@ -1,6 +1,0 @@
-import requests
-
-response = requests.get("https://api.spotify.com/v1/albums/7eyQXxuf2nGj9d2367Gi5f")
-Artist_album_data = response.json()
-
-type(Artist_album_data)
